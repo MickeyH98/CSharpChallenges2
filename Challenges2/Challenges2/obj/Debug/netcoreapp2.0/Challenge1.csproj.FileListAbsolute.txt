@@ -1,0 +1,10 @@
+/Users/miguelhernandez/Projects/Challenges2/Challenges2/bin/Debug/netcoreapp2.0/Challenge1.deps.json
+/Users/miguelhernandez/Projects/Challenges2/Challenges2/bin/Debug/netcoreapp2.0/Challenge1.runtimeconfig.json
+/Users/miguelhernandez/Projects/Challenges2/Challenges2/bin/Debug/netcoreapp2.0/Challenge1.runtimeconfig.dev.json
+/Users/miguelhernandez/Projects/Challenges2/Challenges2/bin/Debug/netcoreapp2.0/Challenge1.dll
+/Users/miguelhernandez/Projects/Challenges2/Challenges2/bin/Debug/netcoreapp2.0/Challenge1.pdb
+/Users/miguelhernandez/Projects/Challenges2/Challenges2/obj/Debug/netcoreapp2.0/Challenge1.csproj.CoreCompileInputs.cache
+/Users/miguelhernandez/Projects/Challenges2/Challenges2/obj/Debug/netcoreapp2.0/Challenge1.AssemblyInfoInputs.cache
+/Users/miguelhernandez/Projects/Challenges2/Challenges2/obj/Debug/netcoreapp2.0/Challenge1.AssemblyInfo.cs
+/Users/miguelhernandez/Projects/Challenges2/Challenges2/obj/Debug/netcoreapp2.0/Challenge1.dll
+/Users/miguelhernandez/Projects/Challenges2/Challenges2/obj/Debug/netcoreapp2.0/Challenge1.pdb
