@@ -1,0 +1,11 @@
+/Users/miguelhernandez/Projects/Challenge2num4/Challenge2num4/bin/Debug/netcoreapp2.0/Challenge2num4.deps.json
+/Users/miguelhernandez/Projects/Challenge2num4/Challenge2num4/bin/Debug/netcoreapp2.0/Challenge2num4.runtimeconfig.json
+/Users/miguelhernandez/Projects/Challenge2num4/Challenge2num4/bin/Debug/netcoreapp2.0/Challenge2num4.runtimeconfig.dev.json
+/Users/miguelhernandez/Projects/Challenge2num4/Challenge2num4/bin/Debug/netcoreapp2.0/Challenge2num4.dll
+/Users/miguelhernandez/Projects/Challenge2num4/Challenge2num4/bin/Debug/netcoreapp2.0/Challenge2num4.pdb
+/Users/miguelhernandez/Projects/Challenge2num4/Challenge2num4/obj/Debug/netcoreapp2.0/Challenge2num4.csprojResolveAssemblyReference.cache
+/Users/miguelhernandez/Projects/Challenge2num4/Challenge2num4/obj/Debug/netcoreapp2.0/Challenge2num4.csproj.CoreCompileInputs.cache
+/Users/miguelhernandez/Projects/Challenge2num4/Challenge2num4/obj/Debug/netcoreapp2.0/Challenge2num4.AssemblyInfoInputs.cache
+/Users/miguelhernandez/Projects/Challenge2num4/Challenge2num4/obj/Debug/netcoreapp2.0/Challenge2num4.AssemblyInfo.cs
+/Users/miguelhernandez/Projects/Challenge2num4/Challenge2num4/obj/Debug/netcoreapp2.0/Challenge2num4.dll
+/Users/miguelhernandez/Projects/Challenge2num4/Challenge2num4/obj/Debug/netcoreapp2.0/Challenge2num4.pdb

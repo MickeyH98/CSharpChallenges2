@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{9C4BB9B5-CA39-4006-818E-AD9BC188E470}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Challenges2/Challenges2/Program.cs">
+    <Files>
+      <File FileName="../Challenge2num2/Challenge2/Program.cs" Line="112" Column="1" />
+      <File FileName="../Challenge2num3/Challenge2num3/Program.cs" Line="44" Column="36" />
+      <File FileName="../Challenges2/Challenges2/Program.cs" Line="42" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Challenge3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Challenge2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Challenge1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
